@@ -26,8 +26,12 @@ dependencies:
   flutter_webview_plugin: ^0.3.0+2
   splashscreen: ^1.2.0
   flutter_spinkit: ^4.1.2
+  flutter_launcher_icons: ^0.7.3
 
-
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/logo.jpg"
 
 
   # The following adds the Cupertino Icons font to your application.
