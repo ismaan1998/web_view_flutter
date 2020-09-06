@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Welcome to Flutter',
       home: SafeArea(
         child: WebviewScaffold(
-          url:"https://slowgrowth.com",
+          url:"https://google.com", //example url
           withZoom: false,
           withJavascript: true,
           hidden: true,
