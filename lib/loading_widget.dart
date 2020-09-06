@@ -9,7 +9,7 @@ Widget getLoadingScreen(){
       itemBuilder: (BuildContext context, int index) {
     return DecoratedBox(
       decoration: BoxDecoration(
-        color: index.isEven ? Colors.blue : Colors.red,
+        color: index.isEven ? Colors.deepOrangeAccent : Colors.blueAccent,
       ),
     );
   },

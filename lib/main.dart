@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'SlowGrowth Academy',
       home: SafeArea(
         child: WebviewScaffold(
-          url:"https://siddharthrajsekar.com/", //example url
+          url:"https://phonevsmobile.com/", //example url
           withZoom: false,
           withJavascript: true,
           hidden: true,
